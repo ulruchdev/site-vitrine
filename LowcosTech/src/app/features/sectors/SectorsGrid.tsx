@@ -9,7 +9,7 @@ export function SectorsGrid() {
       <div className="max-w-7xl mx-auto">
         <h1 className="text-5xl mb-8 text-center">Sectors of Activity</h1>
         <p className="text-xl text-neutral-600 mb-16 max-w-3xl mx-auto text-center">
-          Comprehensive solutions across seven key sectors driving digital transformation in Africa.
+          Comprehensive solutions across seven key sectors driving digital transformation .
         </p>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {SECTORS.map((sector) => (

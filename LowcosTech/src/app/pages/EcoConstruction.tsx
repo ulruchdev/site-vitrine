@@ -13,7 +13,7 @@ export function EcoConstruction() {
     <div>
       <section className="relative h-[500px] overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/60 z-10"></div>
-        <img src="https://images.unsplash.com/photo-1495578942200-c5f5d2137def?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Eco Construction" className="absolute inset-0 w-full h-full object-cover" />
+        <img src="https://images.c/photo-1495578942200-c5f5d2137def?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Eco Construction" className="absolute inset-0 w-full h-full object-cover" />
         <div className="relative z-20 max-w-7xl mx-auto px-6 h-full flex flex-col justify-center">
           <div className="inline-block px-4 py-1 rounded-full text-sm mb-6 w-fit" style={{ backgroundColor: 'rgba(240, 162, 106, 0.2)', color: 'rgb(240, 162, 106)' }}>Services</div>
           <h1 className="text-5xl md:text-6xl text-white mb-6">Eco-Construction</h1>

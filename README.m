@@ -1,10 +1,10 @@
-# Locow Tech - Corporate Website
+# LowCosTech - Corporate Website
 
-**Locow Tech** is a modern, professional technology consulting company specializing in intelligent digital solutions for African businesses, particularly in Cameroon. This repository contains the source code for the Locow Tech corporate website and portfolio.
+**LowCosTech** is a modern, professional technology consulting company specializing in intelligent digital solutions for African businesses, particularly in Cameroon. This repository contains the source code for the LowCosTech corporate website and portfolio.
 
 ## 🌍 Overview
 
-Locow Tech provides comprehensive technology consulting and services across multiple sectors, including:
+LowCosTech provides comprehensive technology consulting and services across multiple sectors, including:
 
 - **Digital Applications** - Custom software solutions tailored for African businesses
 - **Consulting & Support** - Strategic technology consulting and ongoing IT support
@@ -257,8 +257,8 @@ When contributing to this project:
 
 ## 📞 Contact
 
-For inquiries about Locow Tech services, visit the contact page at `/contact` or visit the corporate website.
+For inquiries about LowCosTech services, visit the contact page at `/contact` or visit the corporate website.
 
 ---
 
-**Locow Tech** - Intelligent Solutions for African Businesses
+**LowCosTech** - Intelligent Solutions for African Businesses
